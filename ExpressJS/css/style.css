@@ -1,0 +1,12 @@
+h1{
+    font: large;
+}
+a{
+    background-color: blue;
+    color: white;
+    border-radius: 20%;
+    padding: 20px;
+}
+nav{
+    padding: 20px;
+}
